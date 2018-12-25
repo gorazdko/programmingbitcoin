@@ -404,7 +404,7 @@ include::code-ch02/answers.py[tag=exercise7,indent=0]
 There is one more exception and this involves the case where the tangent line is vertical (Figure 2-19):
 
 .Vertical and Tangent to the curve
-image::tangentvertical.png[Tangent Vertical]
+image::images/tangentvertical.png[Tangent Vertical]
 
 This can only happen if P~1~=P~2~ and the y-coordinate is 0, in which case the slope calculation will end up with a 0 in the denominator.
 
