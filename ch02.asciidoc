@@ -349,7 +349,7 @@ Visually, we have to calculate the line that's *tangent* to the curve at P~1~ an
 The situation looks like this as we saw before (see Figure 2-18):
 
 .Line that's tangent to the curve
-image::intersect2-2.png[Tangent Line]
+image::images/intersect2-2.png[Tangent Line]
 
 Once again, we'll find the slope of the tangent point.
 
