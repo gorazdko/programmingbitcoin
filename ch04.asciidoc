@@ -28,7 +28,7 @@ Here is how the uncompressed SEC format for a given point P=(x,y) is generated:
 The uncompressed SEC format is in Figure 4-1:
 
 .Uncompressed SEC Format
-image::sec1.png[Uncompressed SEC Format]
+image::images/sec1.png[Uncompressed SEC Format]
 
 [WARNING]
 .Big and Little Endian
